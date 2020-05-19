@@ -1,5 +1,4 @@
-# detectionofhematoma
-Detection and Classification of Brain Hematoma Using SVM, Random Forest and Neural Networks
+# Detection and Classification of Brain Hematoma Using SVM, Random Forest and Neural Networks
 
 Overview:
 In this we are classifying brain hematoma which is a type of traumatic brain injury where blood clots in brain causing deaths in some cases. There are three types of hematomas: 1)EDH 2)SDH 3)ICH
